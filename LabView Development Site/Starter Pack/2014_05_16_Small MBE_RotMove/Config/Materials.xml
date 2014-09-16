@@ -1,0 +1,299 @@
+<?xml version='1.0' standalone='yes' ?>
+<LVData>
+<Version>7.0</Version>
+<Array>
+<Name>Material Data</Name>
+<Dimsize>17</Dimsize>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>5.96000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>16.65000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>V</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>8.93000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>20.20000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Cu</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>8.80000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>26.80000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Co</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>19.30000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>23.17000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Au</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>2.68000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>8.42000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Al</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>16.60000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>33.90000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Ta</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>10.50000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>18.50000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Ag</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>7.86000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>25.40000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Fe</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>7.18000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>28.60000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Cr</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>11.50000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>22.90000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Pd</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>8.60000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>27.00000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Py</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>1.74000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>5.50000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Mg</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>7.20000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>23.41000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Mn</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>7.53000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>24.40000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>FM</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>9.35000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>23.15000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>PM</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>4.50000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>14.00000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Ti</Val>
+	</String>
+</Cluster>
+
+<Cluster>
+	<Name>Cluster</Name>
+	<NumElts>3</NumElts>
+	<DBL>
+		<Name>Density</Name>
+		<Val>21.40000</Val>
+	</DBL>
+	<DBL>
+		<Name>Z-Factor</Name>
+		<Val>37.00000</Val>
+	</DBL>
+	<String>
+		<Name>Material</Name>
+		<Val>Pt</Val>
+	</String>
+</Cluster>
+
+</Array>
+
+</LVData>

@@ -1,0 +1,10 @@
+Parallel Ellipsometriemessung:
+
+Min	T	Was
+0	90°c 	START
+5	120°c	T Wechsel
+10	210°C	T Wechsel
+15	400°C	T Wechsel
+22	588°C	T Wechsel
+30	790°C	T Wechsel auf Soll 1000°C
+35	800°C	Ende (1000°C Soll nur schwer zu erreichen, Einstellungen von PID ändern???)

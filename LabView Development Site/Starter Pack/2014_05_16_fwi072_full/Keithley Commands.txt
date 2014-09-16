@@ -1,0 +1,33 @@
+FETC?\n    - one time query ?
+
+*RST
+*IDN?
+
+MEAS?\n    - live
+
+FORM:ELEM<VOLT>\n  - does not work ?!
+
+SOUR:CLE\n
+
+
+SOUR:CURR:MODE?\n	- works  = "FIX"
+
+Sour:VOLT:mode?\n	- works  = "FIX"
+
+
+SOUR:CURR:RANG\s1E-3\n   - set current range to 1mA
+SOUR:CURR:RANG\sUP\n     - increase to next range (10mA)
+
+SOUR:CURR 1E-3           - set current output level to 1mA
+
+
+
++1.808550E-03,+9.987294E-06,+1.810851E+02,+1.876369E+04,+4.506000E+04
+
++1.788819E-02,+1.000027E-04,+1.788771E+02,+1.977216E+04,+4.506000E+04
+
+
+
+VOLTAGE,CURRENT,RESISTANCE,TIME,STATUS
+
+set speed normal -> delay > 300ms < 800ms

@@ -1,0 +1,52 @@
+materialdata Material_Lib. 1
+material V_
+ density  5.96
+ Z-factor 16.65
+material Cu
+ density  8.93
+ Z-factor 20.20
+material Co
+ density  8.8
+ Z-factor 26.8
+material Au
+ density  19.3
+ Z-factor 23.17
+material Al
+ density  2.68
+ Z-factor 8.42
+material Ta
+ density  16.6
+ Z-factor 33.9
+material Ag
+ density  10.5
+ Z-factor 18.5
+material Fe
+ density  7.86
+ Z-factor 25.4
+material Cr
+ density  7.18
+ Z-factor 28.6
+material Pd
+ density  11.5
+ Z-factor 22.9
+material Py
+ density  8.6
+ Z-factor 27
+material Mg
+ density  1.74
+ Z-factor 5.5
+material Mn
+ density  7.20
+ Z-factor 23.41
+material FM
+ density 7.53
+ Z-factor 24.4
+material PM
+ density 9.35
+ Z-factor 23.15
+material Ti
+ density 4.50
+ Z-factor 14.0
+material Pt
+ density 21.4
+ Z-factor 37.0
