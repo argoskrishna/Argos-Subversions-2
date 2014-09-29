@@ -1,0 +1,10 @@
+[PORTS]
+PID1 = "COM1"
+#PID2 = "COM8"
+#Multimeter1 = "COM8"
+#Multimeter2 = "COM8"
+TPG1 = "COM5"
+#TPG2 = "COM8"
+#Pyrometer = "COM8"
+#Keithley = "COM8"
+DEFAULT = "COM8"
