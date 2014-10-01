@@ -92,7 +92,6 @@
 			<Item Name="VC840_Open.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_Open.vi"/>
 			<Item Name="VC840_RAW_Read.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_RAW_Read.vi"/>
 			<Item Name="VC840_Read.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_Read.vi"/>
-			<Item Name="XDNodeRunTimeDep.lvlib" Type="Library" URL="/&lt;vilib&gt;/Platform/TimedLoop/XDataNode/XDNodeRunTimeDep.lvlib"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="ArgosUltimateEditionV2" Type="EXE">
@@ -111,7 +110,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{91DA46C3-A32D-42CF-B4D2-DE763EBFED00}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">10</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Argos Ultimate Edition 2.0.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Argos Ultimate Edition 2.0.exe</Property>
