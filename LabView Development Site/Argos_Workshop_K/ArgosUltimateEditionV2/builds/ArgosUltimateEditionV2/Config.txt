@@ -8,3 +8,5 @@ TPG1 = "COM5"
 #Pyrometer = "COM8"
 #Keithley = "COM8"
 DEFAULT = "COM8"
+Max Temp - Side A = 1100
+#Max Temp - Side B = 
