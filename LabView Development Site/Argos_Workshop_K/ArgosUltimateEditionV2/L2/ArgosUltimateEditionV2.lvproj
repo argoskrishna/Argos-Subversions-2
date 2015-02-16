@@ -43,6 +43,7 @@
 				<Item Name="Error Code Database.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Code Database.vi"/>
 				<Item Name="ErrWarn.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/ErrWarn.ctl"/>
 				<Item Name="eventvkey.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/eventvkey.ctl"/>
+				<Item Name="ex_CorrectErrorChain.vi" Type="VI" URL="/&lt;vilib&gt;/express/express shared/ex_CorrectErrorChain.vi"/>
 				<Item Name="Find Tag.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Find Tag.vi"/>
 				<Item Name="Format Message String.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Format Message String.vi"/>
 				<Item Name="FormatTime String.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/FormatTime String.vi"/>
@@ -63,6 +64,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
+				<Item Name="subDisplayMessage.vi" Type="VI" URL="/&lt;vilib&gt;/express/express output/DisplayMessageBlock.llb/subDisplayMessage.vi"/>
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
@@ -88,13 +90,12 @@
 			</Item>
 			<Item Name="PresureGetSubVI.vi" Type="VI" URL="../Dependencies/Pfeiffer TPG261+262 Single+Dual Gauge/PresureGetSubVI.vi"/>
 			<Item Name="Resistivity_Calculation.vi" Type="VI" URL="../Dependencies/misc/Resistivity_Calculation.vi"/>
-			<Item Name="VC840_Close.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_Close.vi"/>
 			<Item Name="VC840_Open.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_Open.vi"/>
 			<Item Name="VC840_RAW_Read.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_RAW_Read.vi"/>
 			<Item Name="VC840_Read.vi" Type="VI" URL="../Dependencies/Voltcraft VC840 Multimeter/VC840_Read.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="ArgosUltimateEditionV2" Type="EXE">
+			<Item Name="ArgosUltimateEditionV2.66" Type="EXE">
 				<Property Name="App_copyErrors" Type="Bool">true</Property>
 				<Property Name="App_INI_aliasGUID" Type="Str">{A7455A1E-91C8-42FB-9CEE-3A0465B52BA0}</Property>
 				<Property Name="App_INI_GUID" Type="Str">{2A1A3B32-D74C-43D8-BD8F-50694879424C}</Property>
@@ -102,24 +103,24 @@
 				<Property Name="App_winsec.description" Type="Str">http://www.HZDR.com</Property>
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{1D0EA7DB-CE12-4FE1-8133-63D95B0D5DF9}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">ArgosUltimateEditionV2</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">ArgosUltimateEditionV2.66</Property>
 				<Property Name="Bld_excludeInlineSubVIs" Type="Bool">true</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME</Property>
+				<Property Name="Bld_localDestDir" Type="Path">../builds/NI_AB_PROJECTNAME.6</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{91DA46C3-A32D-42CF-B4D2-DE763EBFED00}</Property>
-				<Property Name="Bld_version.build" Type="Int">19</Property>
+				<Property Name="Bld_version.build" Type="Int">21</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">Argos Ultimate Edition 2.0.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Argos Ultimate Edition 2.0.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">Argos Ultimate Edition 2.6.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/ArgosUltimateEditionV2.6/Argos Ultimate Edition 2.6.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/data</Property>
+				<Property Name="Destination[1].path" Type="Path">../builds/ArgosUltimateEditionV2.6/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{6E0FDF98-13C3-4045-8E8A-02659EF6ECB7}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{203D83EE-FB66-41A2-AF23-F7B42C010263}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/ArgosUltimateEditionV2.vi</Property>
@@ -127,12 +128,12 @@
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">HZDR</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">ArgosUltimateEditionV2</Property>
-				<Property Name="TgtF_internalName" Type="Str">ArgosUltimateEditionV2</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">ArgosUltimateEditionV2.66</Property>
+				<Property Name="TgtF_internalName" Type="Str">ArgosUltimateEditionV2.66</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2014 HZDR</Property>
-				<Property Name="TgtF_productName" Type="Str">ArgosUltimateEditionV2</Property>
+				<Property Name="TgtF_productName" Type="Str">ArgosUltimateEditionV2.66</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F46CE711-C69F-4143-BA70-35BD8B441056}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">Argos Ultimate Edition 2.0.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">Argos Ultimate Edition 2.6.exe</Property>
 			</Item>
 		</Item>
 	</Item>
