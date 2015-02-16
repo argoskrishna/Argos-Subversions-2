@@ -22,6 +22,3 @@ Monitor and log two Multimeter inputs (VC840)
 Monitor Pyrometer(Impac 140) and change the Emissivity during run-time.
 All Device communication is through the serial Port.
 
-#Manual
-Front Panel is in the form of tabs. Most of the Process control/monitoring can be performed in the "Measurement" Tab. 
-                
