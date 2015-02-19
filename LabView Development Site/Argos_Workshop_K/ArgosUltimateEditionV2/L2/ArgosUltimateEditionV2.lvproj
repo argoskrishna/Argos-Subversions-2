@@ -111,7 +111,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{91DA46C3-A32D-42CF-B4D2-DE763EBFED00}</Property>
-				<Property Name="Bld_version.build" Type="Int">21</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Argos Ultimate Edition 2.6.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/ArgosUltimateEditionV2.6/Argos Ultimate Edition 2.6.exe</Property>
